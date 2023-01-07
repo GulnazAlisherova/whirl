@@ -119,3 +119,12 @@ body {
 .img-cards img{
   margin-left: 2rem;
 }
+.inform{
+  margin: 4rem;
+}
+.inform h1{
+  font-family: "Fraunces", serif;
+}
+.inform img{
+  text-align: center;
+}
