@@ -103,9 +103,9 @@ body {
 }
 .companies {
   text-align: center;
-  margin: 6rem ;
+  margin: 8rem ;
 }
 
 .companies img {
-  margin: 2rem;
+  margin-right: 2.5rem;
 }
