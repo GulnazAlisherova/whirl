@@ -107,7 +107,8 @@ body {
 }
 .companies h2{ 
   font-weight: 400;
-  font-family: "Inter", sans-serif; ;
+  font-family: "Inter", sans-serif; 
+  line-height: 37.5px;
 }
 .companies img {
   margin-right: 2.5rem;
