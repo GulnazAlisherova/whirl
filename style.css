@@ -96,4 +96,7 @@ body {
 }
 .meta p {
   font-family: "Inter", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
 }
