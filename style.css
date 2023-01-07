@@ -124,6 +124,7 @@ body {
 }
 .inform h1{
   font-family: "Fraunces", serif;
+  font-weight: 400;
 }
 .inform img{
   text-align: center;
