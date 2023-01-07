@@ -103,60 +103,61 @@ body {
 }
 .companies {
   text-align: center;
-  margin: 8rem ;
+  margin: 8rem;
 }
-.companies h2{ 
+.companies h2 {
   font-weight: 400;
-  font-family: "Inter", sans-serif; 
+  font-family: "Inter", sans-serif;
   line-height: 37.5px;
 }
 .companies img {
   margin-right: 2.5rem;
 }
-.img-cards{
+.img-cards {
   margin: 5rem;
 }
-.img-cards img{
+.img-cards img {
   margin-left: 2rem;
 }
-.inform{
+.inform {
   margin: 4rem;
-  background-color: #F7F9FA;
+  background-color: #f7f9fa;
 }
-.inform h1{
+.inform h1 {
   font-family: "Fraunces", serif;
   font-weight: 400;
   font-size: 42px;
 }
-.inform img{
+.inform img {
   text-align: center;
 }
-.about{
+.about {
   align-items: center;
-  margin: 0 auto; 
+  margin: 0 auto;
   font-family: "Fraunces", serif;
 }
-.about h1{ 
+.about h1 {
   font-size: 41px;
   font-weight: 400;
   line-height: 50px;
-  text-align: center; 
+  text-align: center;
 }
-.about h4{
+.about h4 {
   font-weight: 400;
   font-size: 25px;
   line-height: 32px;
 }
-.about p{
-  font-family: "Inter", sans-serif; 
+.about p {
+  font-family: "Inter", sans-serif;
   line-height: 24px;
   font-size: 15px;
 }
-section{
-  background-color:#0070A0;
+section {
+  background-color: #0070a0;
   padding: 80px;
   color: white;
 }
-.reminder h1{
+.reminder h1 {
   font-weight: 400;
+  font-family: "Fraunces", serif;
 }
