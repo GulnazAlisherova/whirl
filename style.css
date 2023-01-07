@@ -91,4 +91,6 @@ body {
 }
 .meta h1{
   font-size: 58px;
+  line-height: 64px;
+  font-weight: 400;
 }
