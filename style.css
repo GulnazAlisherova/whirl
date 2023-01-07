@@ -131,8 +131,11 @@ body {
 .inform img{
   text-align: center;
 }
-
 .about{
   align-items: center;
   margin: 1rem; 
+  font-family: "Fraunces", serif;
+}
+.about h1{ 
+  font-weight: 400;
 }
