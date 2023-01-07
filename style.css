@@ -71,21 +71,24 @@ body {
   padding: 1rem;
 }
 .navbar button {
-  display: block; 
+  display: block;
 }
-.btn-1{
+.btn-1 {
   border: none;
   margin-right: 3rem;
-  color: #0070A0;
+  color: #0070a0;
   background-color: white;
   font-size: 15px;
 }
-.btn-2{
+.btn-2 {
   color: white;
-  background-color: #0070A0;
+  background-color: #0070a0;
   border: none;
   padding: 15px;
 }
 .meta {
-  font-family:  'Fraunces', serif;;
+  font-family: "Fraunces", serif;
+}
+.meta h1{
+  font-size: 58px;
 }
