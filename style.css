@@ -55,18 +55,25 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
-.navbar { 
+.navbar {
   margin: 1rem;
   display: flex;
   font-family: "Inter", sans-serif;
 }
-.navbar ul{
+.navbar ul {
   list-style-type: none;
   display: flex;
   align-items: flex-start;
 }
-.navbar ul li a{
+.navbar ul li a {
   text-decoration: none;
   color: black;
   padding: 1rem;
+}
+.navbar button {
+  display: block; 
+}
+.btn-1{
+  border: none;
+  margin-right: 3rem;
 }
