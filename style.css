@@ -164,5 +164,13 @@ section {
   font-family: "Fraunces", serif;
 }
 .reminder p {
-  
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 400;
+}
+.reminder li{
+  font-weight: 400;
+  line-height: 22px;
+  font-family: "Inter", sans-serif;
 }
