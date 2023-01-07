@@ -133,11 +133,17 @@ body {
 }
 .about{
   align-items: center;
-  margin: 1rem; 
+  margin: 0 auto; 
   font-family: "Fraunces", serif;
 }
 .about h1{ 
   font-size: 41px;
   font-weight: 400;
   line-height: 50px;
+  text-align: center; 
+}
+.about h4{
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 32px;
 }
