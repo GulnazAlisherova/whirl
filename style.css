@@ -101,6 +101,11 @@ body {
   line-height: 30px;
   font-weight: 400;
 }
+.companies {
+  text-align: center;
+  margin: 6rem ;
+}
+
 .companies img {
   margin: 2rem;
 }
