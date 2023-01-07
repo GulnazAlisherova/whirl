@@ -159,5 +159,10 @@ section {
 }
 .reminder h1 {
   font-weight: 400;
+  font-size: 42px;
+  line-height: 50px;
   font-family: "Fraunces", serif;
+}
+.reminder p {
+  
 }
