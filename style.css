@@ -55,6 +55,11 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
-nav{
-  font-family: 'Inter', sans-serif;
+.navbar { 
+  margin: 1rem;
+  display: flex;
+  font-family: "Inter", sans-serif;
+}
+.navbar ul{
+  list-style-type: none;
 }
