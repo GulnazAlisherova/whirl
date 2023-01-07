@@ -62,4 +62,10 @@ body {
 }
 .navbar ul{
   list-style-type: none;
+  display: flex;
+  align-items: flex-start;
+}
+.navbar ul li a{
+  text-decoration: none;
+  color: black;
 }
