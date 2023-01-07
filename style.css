@@ -89,8 +89,11 @@ body {
 .meta {
   font-family: "Fraunces", serif;
 }
-.meta h1{
+.meta h1 {
   font-size: 58px;
   line-height: 64px;
   font-weight: 400;
+}
+.meta p {
+  font-family: "Inter", sans-serif;
 }
