@@ -105,7 +105,10 @@ body {
   text-align: center;
   margin: 8rem ;
 }
-
+.companies h2{ 
+  font-weight: 400;
+  font-family: "Inter", sans-serif; ;
+}
 .companies img {
   margin-right: 2.5rem;
 }
