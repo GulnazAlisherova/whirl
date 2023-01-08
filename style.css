@@ -227,3 +227,7 @@ section {
   width: 356px;
   background-color: white;
 }
+.card button{
+  background-color: #E6F7FF;
+  color: #2C90C9;
+}
