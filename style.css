@@ -243,3 +243,6 @@ section {
   font-size: 25px;
   line-height: 32px;
 }
+.card p{
+  font-family: "Inter", sans-serif;
+}
