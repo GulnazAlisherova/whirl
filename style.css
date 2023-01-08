@@ -286,3 +286,6 @@ h5 {
   line-height: 21px;
   margin: 1rem;
 }
+.people p a{
+  text-decoration: none;
+}
