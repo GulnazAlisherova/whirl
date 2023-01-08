@@ -293,3 +293,6 @@ h5 {
 .footer-nav ul{
   list-style-type: none;
 }
+.footer-nav li a {
+  text-decoration: none;
+}
