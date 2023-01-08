@@ -290,6 +290,10 @@ h5 {
   text-decoration: none;
   color: #0070a0;
 }
+.footer-nav {
+  width: 217px;
+}
+
 .footer-nav ul {
   list-style-type: none;
 }
@@ -299,4 +303,10 @@ h5 {
   font-family: "Inter", sans-serif;
   line-height: 20px;
   font-size: 14px;
+}
+.email h5 {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
 }
