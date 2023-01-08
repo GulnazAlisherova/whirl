@@ -218,4 +218,7 @@ section {
 .blog2 a{
   text-decoration: none;
   font-family: "Inter", sans-serif;
+  line-height: 27px;
+  font-size: 17px;
+  color: #0070A0;
 }
