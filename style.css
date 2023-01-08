@@ -278,3 +278,7 @@ h5 {
   font-size: 18px;
   line-height: 27px;
 }
+.card3 h5 {
+  display: inline-flex;
+  color: #626A72;
+}
