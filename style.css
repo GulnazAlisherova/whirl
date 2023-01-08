@@ -253,13 +253,14 @@ h5 {
   font-weight: 400;
 }
 .card h5 {
-  color: #1F1F1F;
+  color: #1f1f1f;
   font-family: "Inter", sans-serif;
   font-size: 12px;
   line-height: 20px;
   font-weight: 400;
 }
-.card3{
-  background-color: #E6F7FF;
+.card3 {
+  background-color: #e6f7ff;
   margin: 3rem 5rem 6rem 2rem;
+  padding-left: 3rem;
 }
