@@ -213,39 +213,44 @@ section {
   font-family: "Fraunces", serif;
   font-weight: 400;
   font-size: 42px;
-  line-height: 50px; 
+  line-height: 50px;
 }
-.blog2 a{
+.blog2 a {
   text-decoration: none;
   font-family: "Inter", sans-serif;
   line-height: 27px;
   font-size: 17px;
-  color: #0070A0;
+  color: #0070a0;
 }
-.card{
+.card {
   border: 1px solid transparent;
   width: 356px;
   background-color: white;
 }
-.card button, h2, p, h5{
+.card button,
+h2,
+p,
+h5 {
   padding-left: 26px;
 }
-.card button{
-  background-color: #E6F7FF;
-  color: #2C90C9;
+.card button {
+  background-color: #e6f7ff;
+  color: #2c90c9;
   border: none;
   padding: 0 10px;
   margin: 1rem;
 }
-.card h2{
+.card h2 {
   font-weight: 400;
   font-family: "Fraunces", serif;
   font-size: 25px;
   line-height: 32px;
 }
-.card p{
+.card p {
   font-family: "Inter", sans-serif;
   font-size: 14px;
   line-height: 20px;
   font-weight: 400;
+}
+.card h5 {
 }
