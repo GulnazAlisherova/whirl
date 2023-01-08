@@ -281,4 +281,5 @@ h5 {
 .card3 h5 {
   display: inline-flex;
   color: #626A72;
+  font-weight: 400;
 }
