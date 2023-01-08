@@ -222,3 +222,8 @@ section {
   font-size: 17px;
   color: #0070A0;
 }
+.card{
+  border: 1px solid transparent;
+  width: 356px;
+  background-color: white;
+}
