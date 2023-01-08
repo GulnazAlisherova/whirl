@@ -263,4 +263,9 @@ h5 {
   background-color: #e6f7ff;
   margin: 3rem 5rem 6rem 2rem;
   padding-left: 3rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.card3 h1{
+  font-weight: 400;
 }
