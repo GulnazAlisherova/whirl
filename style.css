@@ -184,14 +184,22 @@ section {
   line-height: 50.4px;
   margin: 1rem 0;
 }
-.text p{
+.text p {
   font-family: "Inter", sans-serif;
   font-size: 18px;
   line-height: 27px;
 }
-.automated h3{
+.automated h3 {
   font-weight: 400;
   font-family: "Fraunces", serif;
   font-size: 25px;
   line-height: 32px;
+}
+.automated img {
+  margin: 0.5rem 0;
+}
+.automated p {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
 }
