@@ -228,7 +228,7 @@ section {
   background-color: white;
 }
 .card button, h2, p, h5{
-  padding-left: 30px;
+  padding-left: 26px;
 }
 .card button{
   background-color: #E6F7FF;
@@ -240,5 +240,6 @@ section {
 .card h2{
   font-weight: 400;
   font-family: "Fraunces", serif;
-
+  font-size: 25px;
+  line-height: 32px;
 }
