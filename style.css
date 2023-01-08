@@ -203,9 +203,14 @@ section {
   font-size: 18px;
   line-height: 22px;
 }
-.blog{
-  background-color: #F7F9FA;
+.blog {
+  background-color: #f7f9fa;
 }
-.blog2{
+.blog2 {
   margin: 3rem 5rem;
+}
+.blog2 h1 {
+  font-family: "Fraunces", serif;
+  font-weight: 400;
+  
 }
