@@ -290,3 +290,6 @@ h5 {
   text-decoration: none;
   color: #0070A0;
 }
+.footer-nav ul{
+  list-style-type: none;
+}
