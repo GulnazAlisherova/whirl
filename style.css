@@ -227,7 +227,13 @@ section {
   width: 356px;
   background-color: white;
 }
+.card button, h2, p, h5{
+  padding-left: 30px;
+}
 .card button{
   background-color: #E6F7FF;
   color: #2C90C9;
+  border: none;
+  padding: 0 10px;
+  margin: 1rem;
 }
